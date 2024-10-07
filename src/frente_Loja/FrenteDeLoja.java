@@ -85,6 +85,7 @@ public class FrenteDeLoja {
 			System.out.println("1 - Listar todas as Lojas");
 			System.out.println("2 - Listar Veículos disponíveis em uma loja");
 			System.out.println("3 - Listar Vendedores de uma loja");
+			
 			System.out.println("4 - Voltar ao menu anterior");
 			
 
